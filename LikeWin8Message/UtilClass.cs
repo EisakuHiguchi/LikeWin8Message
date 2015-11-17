@@ -18,7 +18,7 @@ namespace LikeWin8Message
             return INDEX;
         }
 
-        public static void setIndex(int index)
+        public static void addIndex(int index)
         {
             INDEX = INDEX + index;
         }

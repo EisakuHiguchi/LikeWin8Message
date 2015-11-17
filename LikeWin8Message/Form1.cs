@@ -27,7 +27,7 @@ namespace LikeWin8Message
 
         private void button1_Click(object sender, EventArgs e)
         {
-            pmc.makeNewPanel();
+            pmc.makeNewPanel("msg1", "label");
         }
 
 

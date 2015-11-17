@@ -16,22 +16,24 @@ namespace LikeWin8Message
         private PanelManagerClass pmc;
         private PanelDesignClass pd;
 
-        public MessageForm()
+        public MessageForm(String msg1, String msg2)
         {
             InitializeComponent();
 
+            pm = new PanelMoveClass(this, UtilClass.getIndex());
+            pd = new PanelDesignClass(messagePanel1);
+
+            pd.setLabel1Text(msg1);
+            pd.setLabel2Text(msg2);
         }
 
         private void MessageForm_Load(object sender, EventArgs e)
         {
-            // 場所とか初期設定
+            // 場所の指定
             Location = new Point(System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Width - Size.Width, 0);
-            pm = new PanelMoveClass(this, UtilClass.getIndex());
-            pd = new PanelDesignClass(messagePanel1);
 
             // クリック時の挙動を指定
             messagePanel1.Click += new EventHandler(panel_Click);
-
         }
 
 

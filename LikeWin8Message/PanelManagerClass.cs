@@ -34,19 +34,19 @@ namespace LikeWin8Message
             pm.moveIn();
         }
 
-        public void makeNewPanel()
+        public void makeNewPanel(String label1, String label2)
         {
-            UtilClass.setIndex(1);
-            MessageForm testForm = new MessageForm();
-            panelList.Add(testForm);
+            UtilClass.addIndex(1);
+            MessageForm msgForm = new MessageForm(label1, label2);
+            panelList.Add(msgForm);
             panelInitilize(panelList.Count - 1);
-            testForm.Show();
+            msgForm.Show();
         }
 
         public void disposePanel(int index)
         {
             panelList.RemoveAt(index);
-            UtilClass.setIndex(-1);
+            UtilClass.addIndex(-1);
 
         }
 

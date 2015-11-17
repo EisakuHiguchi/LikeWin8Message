@@ -18,7 +18,7 @@ namespace LikeWin8Message
         void panelOut(int index);
         void panelIn(int index);
 
-        void makeNewPanel();
+        void makeNewPanel(String label1msg, String label2msg);
         void disposePanel(int index);
 
         void panelInitilize(int index);

@@ -23,10 +23,6 @@ namespace LikeWin8Message
         // ロード時に実行
         private void MessagePanel_Load(object sender, EventArgs e)
         {
-            // ラベル処理
-            String msg = "MessagePanel_" + UtilClass.getIndex();
-            label1.Text = msg;
-            label1.Name = msg;
         }
 
 

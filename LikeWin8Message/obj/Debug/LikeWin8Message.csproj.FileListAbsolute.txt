@@ -20,3 +20,14 @@ C:\Users\kakesoba\箱\backupDrop\Private\LikeWin8Message\LikeWin8Message\obj\Deb
 C:\Users\kakesoba\箱\backupDrop\Private\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.MessagePanel.resources
 C:\Users\kakesoba\箱\backupDrop\Private\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.Properties.Resources.resources
 C:\Users\kakesoba\箱\backupDrop\Private\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.csproj.GenerateResource.Cache
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\bin\Debug\LikeWin8Message.exe.config
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\bin\Debug\LikeWin8Message.exe
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\bin\Debug\LikeWin8Message.pdb
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.csprojResolveAssemblyReference.cache
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.Form1.resources
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.MessageForm.resources
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.MessagePanel.resources
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.Properties.Resources.resources
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.csproj.GenerateResource.Cache
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.exe
+C:\work\GitLocal\LikeWin8Message\LikeWin8Message\obj\Debug\LikeWin8Message.pdb
